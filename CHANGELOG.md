@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.8.0
+
+  Add Burn Raptor plume
+
 0.7.0
 
   Add Starlink stack still

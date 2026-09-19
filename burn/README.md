@@ -24,8 +24,11 @@ cp -a colors.toml hyprland.lua shell.toml icons.theme keyboard.rgb preview.png b
 omarchy theme set burn
 ```
 
-## Background
+## Backgrounds
 
-`0-static-fire.jpg` — Super Heavy plume at night. Native **2100×3149** (portrait). X orig: [HIGiE3yaQAAEJGu](https://pbs.twimg.com/media/HIGiE3yaQAAEJGu?format=jpg&name=4096x4096).
+| File | Size | Shot | Source |
+|------|------|------|--------|
+| `0-static-fire.jpg` | 2100×3149 | Super Heavy plume at night | [X orig](https://pbs.twimg.com/media/HIGiE3yaQAAEJGu?format=jpg&name=4096x4096) |
+| `1-raptor-plume.jpg` | 3000×2000 | Raptor bells firing | [X orig](https://pbs.twimg.com/media/G3_S4kWWYAAqLkX?format=jpg&name=4096x4096) |
 
 Photo © SpaceX.
