@@ -1,8 +1,15 @@
+# Omarchy themes
+
+Repo: [stevederico/omarchy-themes](https://github.com/stevederico/omarchy-themes).
+
+| Theme | Path | Feel |
+|-------|------|------|
+| **Space** | repo root | Jet void, dove text, sunset ring |
+| **Burn** | [`burn/`](burn/) | Night static fire, ember gold |
+
 # Space
 
 Omarchy theme from the Space design system: [stevederico/themes](https://github.com/stevederico/themes) `space/` and [stevederico/space-ui](https://github.com/stevederico/space-ui).
-
-Repo: [stevederico/omarchy-themes](https://github.com/stevederico/omarchy-themes).
 
 Dark-first marketing chrome. Jet void, charcoal cards, dove text, sunset ring. Square corners, hairline borders, glass bar. Not Brutalist.
 
@@ -43,6 +50,14 @@ omarchy theme set space
 
 `omarchy theme install` from a git URL drops `*.lua`. Copy as a user theme if you want the theme's `hyprland.lua` (square corners, hairline border).
 
+Burn:
+
+```bash
+mkdir -p ~/.config/omarchy/themes/burn
+cp -a burn/* ~/.config/omarchy/themes/burn/
+omarchy theme set burn
+```
+
 Backgrounds cycle with Super+Ctrl+Space.
 
 ## Backgrounds
@@ -62,5 +77,6 @@ Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](
 | `8-s40-earth.jpg` | 3840×2160 | S40 over Earth, Flight 13 | [X orig](https://x.com/SpaceX/status/2081894924291654060) |
 | `9-s40-plasma.jpg` | 3840×2160 | S40 in plasma, Flight 13 | same |
 | `10-sunset-pad.jpg` | 4096×2304 | Stacked Starship, magenta sunset | [X 4096](https://pbs.twimg.com/media/HN635FUWYAAzbOB?format=jpg&name=4096x4096) |
+| `11-s38-sun.jpg` | 1782×1032 | S38 over Earth, sun flare | [X orig](https://pbs.twimg.com/media/HALwXVHXkAApqIx?format=jpg&name=4096x4096) |
 
 Photos © SpaceX. Flickr originals where they exist; Flight 13 from X `?name=orig`.
