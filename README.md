@@ -47,16 +47,16 @@ Backgrounds cycle with Super+Ctrl+Space.
 
 ## Backgrounds
 
-Official @SpaceX photos, orig-size from X:
+Official SpaceX camera originals from [flickr.com/photos/spacex](https://www.flickr.com/photos/spacex). Not X (`orig` caps ~4096px and heavy JPEG). Not spacex.com (site stills are 2600×1200 web crops).
 
-| File | Shot | Post |
-|------|------|------|
-| `0-sunset-stack.jpg` | Fully stacked Starship at sunset, Starbase | [Sunset at Starbase](https://x.com/SpaceX/status/2080302195677728803) |
-| `1-sunset-close.jpg` | Close stack against sunset | same |
-| `2-orbit-plasma.jpg` | S40 in plasma, Flight 13 | [Starship in space](https://x.com/SpaceX/status/2081894924291654060) |
-| `3-orbit-earth.jpg` | S40 over Earth, Flight 13 | same |
-| `4-landing-burn.jpg` | Landing burn / splashdown, Flight 13 | [Landing burn](https://x.com/SpaceX/status/2082186658162626898) |
-| `5-night-roll.jpg` | Super Heavy V3 night roll to pad | [V3 at the pad](https://x.com/SpaceX/status/2053173186863177822) |
-| `6-liftoff-engines.jpg` | Flight 13 liftoff, engine bells | [Liftoff](https://x.com/SpaceX/status/2081088918703759549) |
+| File | Size | Shot | Flickr |
+|------|------|------|--------|
+| `0-stack-dusk.jpg` | 3840×2926 | Stacked Starship at dusk | [52444733071](https://www.flickr.com/photos/spacex/52444733071/sizes/o/) |
+| `1-chopstick-gold.jpg` | 3840×2748 | Chopsticks, golden hour | [52822624215](https://www.flickr.com/photos/spacex/52822624215/sizes/o/) |
+| `2-sunset-marsh.jpg` | 3840×2008 | Sunset over the marsh | [52821644502](https://www.flickr.com/photos/spacex/52821644502/sizes/o/) |
+| `3-aerial-dusk.jpg` | 3840×2905 | Aerial dusk stack | [52822653368](https://www.flickr.com/photos/spacex/52822653368/sizes/o/) |
+| `4-heatshield-bw.jpg` | **5472×3076** | Heatshield stack, B&W | [51369631902](https://www.flickr.com/photos/spacex/51369631902/sizes/o/) |
+| `5-steam-stack.jpg` | 3840×2400 | Stack in steam | [52621815136](https://www.flickr.com/photos/spacex/52621815136/sizes/o/) |
+| `6-aerial-beach.jpg` | 5261×3288 | Aerial over the beach | [52821641477](https://www.flickr.com/photos/spacex/52821641477/sizes/o/) |
 
-Photos © SpaceX. Personal wallpaper use.
+Photos © SpaceX, downloaded as Flickr originals.
