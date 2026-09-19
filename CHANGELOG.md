@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.9.0
+
+  Add S38 portrait still
+
 0.8.0
 
   Add Burn Raptor plume
