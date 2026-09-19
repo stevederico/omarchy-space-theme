@@ -4,7 +4,7 @@ Omarchy theme from the Space design system: [stevederico/themes](https://github.
 
 Repo: [stevederico/omarchy-themes](https://github.com/stevederico/omarchy-themes).
 
-Dark-first marketing chrome. Jet void, charcoal cards, dove text, sunset ring. Soft 8px corners, hairline borders, glass bar. Not Brutalist.
+Dark-first marketing chrome. Jet void, charcoal cards, dove text, sunset ring. Square corners, hairline borders, glass bar. Not Brutalist.
 
 ## Palette
 
@@ -19,11 +19,11 @@ Dark-first marketing chrome. Jet void, charcoal cards, dove text, sunset ring. S
 | Violet | dusk / twilight | `#6C28D9` / `#A689FA` |
 | Info | breeze | `#9CB8DD` |
 
-Active window border is sunset into twilight at 135°. Inactive is umbra hairline. Hyprland rounding is 8px so the shell follows (`Style.cornerRadius`).
+Active window border is sunset into twilight at 135°. Inactive is umbra hairline. Hyprland rounding is 0 so windows and the shell stay square.
 
 ## Install
 
-User theme (keeps `hyprland.lua` rounding):
+User theme (keeps `hyprland.lua`):
 
 ```bash
 git clone https://github.com/stevederico/omarchy-themes.git ~/.config/omarchy/themes/space
@@ -41,7 +41,7 @@ cp -a colors.toml hyprland.lua shell.toml icons.theme keyboard.rgb preview.png b
 omarchy theme set space
 ```
 
-`omarchy theme install` from a git URL drops `*.lua`. Copy as a user theme if you want the 8px corners.
+`omarchy theme install` from a git URL drops `*.lua`. Copy as a user theme if you want the theme's `hyprland.lua` (square corners, hairline border).
 
 Backgrounds cycle with Super+Ctrl+Space.
 

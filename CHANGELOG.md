@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.3.0
+
+  Square window corners
+
 0.2.0
 
   Replace X wallpapers

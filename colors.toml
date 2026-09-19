@@ -1,7 +1,7 @@
 mode = "dark"
 
 # Space — x.ai / SpaceXAI marketing system.
-# Jet void, charcoal cards, dove text, sunset ring. Soft radius, hairline borders.
+# Jet void, charcoal cards, dove text, sunset ring. Square corners, hairline borders.
 # Not Brutalist: no mono-caps, no zero-radius slabs.
 
 accent = "#FF6308"
