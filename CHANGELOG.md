@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.13.0
+
+  Split Burn into own repo
+
 0.12.0
 
   Drop Space pad stills

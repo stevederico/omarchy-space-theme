@@ -1,13 +1,6 @@
-# Omarchy themes
-
-Repo: [stevederico/omarchy-themes](https://github.com/stevederico/omarchy-themes).
-
-| Theme | Path | Feel |
-|-------|------|------|
-| **Space** | repo root | Jet void, dove text, sunset ring |
-| **Burn** | [`burn/`](burn/) | Night static fire, ember gold |
-
 # Space
+
+Repo: [stevederico/omarchy-themes](https://github.com/stevederico/omarchy-themes). Burn lives in [stevederico/omarchy-burn-theme](https://github.com/stevederico/omarchy-burn-theme).
 
 Omarchy theme from the Space design system: [stevederico/themes](https://github.com/stevederico/themes) `space/` and [stevederico/space-ui](https://github.com/stevederico/space-ui).
 
@@ -49,14 +42,6 @@ omarchy theme set space
 ```
 
 `omarchy theme install` from a git URL drops `*.lua`. Copy as a user theme if you want the theme's `hyprland.lua` (square corners, hairline border).
-
-Burn:
-
-```bash
-mkdir -p ~/.config/omarchy/themes/burn
-cp -a burn/* ~/.config/omarchy/themes/burn/
-omarchy theme set burn
-```
 
 Backgrounds cycle with Super+Ctrl+Space.
 
