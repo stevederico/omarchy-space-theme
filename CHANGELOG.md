@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.5.0
+
+  Add sunset pad still
+
 0.4.0
 
   Add booster engines
