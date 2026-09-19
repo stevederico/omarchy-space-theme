@@ -1,0 +1,40 @@
+mode = "dark"
+
+# Space — x.ai / SpaceXAI marketing system.
+# Jet void, charcoal cards, dove text, sunset ring. Soft radius, hairline borders.
+# Not Brutalist: no mono-caps, no zero-radius slabs.
+
+accent = "#FF6308"
+selection = "#1F2228"
+muted = "#3C4653"
+
+background = "#0A0A0A"
+dark_background = "#070707"
+darker_background = "#050505"
+lighter_background = "#1A1A1A"
+
+foreground = "#D5D9E2"
+dark_foreground = "#7D8187"
+light_foreground = "#A9B2BC"
+bright_foreground = "#ECECED"
+
+hyprland_active_border = "rgba(ff6308ee) rgba(a689faaa) 135deg"
+hyprland_inactive_border = "rgba(1f222866)"
+active_border_color = "#FF6308"
+active_tab_background = "#1A1A1A"
+
+red = "#E85D4C"
+yellow = "#FFD085"
+orange = "#FF6308"
+green = "#61D18A"
+cyan = "#9CB8DD"
+blue = "#6B9BD4"
+magenta = "#6C28D9"
+brown = "#4A3228"
+
+bright_red = "#FF8A7A"
+bright_yellow = "#FFE4B0"
+bright_green = "#8FE0B0"
+bright_cyan = "#C5D8EE"
+bright_blue = "#9CB8DD"
+bright_magenta = "#A689FA"
