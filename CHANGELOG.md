@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.11.0
+
+  Add Burn triple plume
+
 0.10.0
 
   Add Burn ship fire still
