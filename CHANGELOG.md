@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.14.0
+
+  Rename to omarchy-space-theme
+
 0.13.0
 
   Split Burn into own repo
