@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.4.0
+
+  Add booster engines
+  Add S40 stills
+
 0.3.0
 
   Square window corners

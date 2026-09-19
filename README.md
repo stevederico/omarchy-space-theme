@@ -47,7 +47,7 @@ Backgrounds cycle with Super+Ctrl+Space.
 
 ## Backgrounds
 
-Official SpaceX camera originals from [flickr.com/photos/spacex](https://www.flickr.com/photos/spacex). Not X (`orig` caps ~4096px and heavy JPEG). Not spacex.com (site stills are 2600×1200 web crops).
+Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](https://www.flickr.com/photos/spacex). Flight 13 booster and S40 shots are X `orig` — those frames are not on Flickr, and spacex.com stills are 2600×1200 web crops.
 
 | File | Size | Shot | Flickr |
 |------|------|------|--------|
@@ -58,5 +58,8 @@ Official SpaceX camera originals from [flickr.com/photos/spacex](https://www.fli
 | `4-heatshield-bw.jpg` | **5472×3076** | Heatshield stack, B&W | [51369631902](https://www.flickr.com/photos/spacex/51369631902/sizes/o/) |
 | `5-steam-stack.jpg` | 3840×2400 | Stack in steam | [52621815136](https://www.flickr.com/photos/spacex/52621815136/sizes/o/) |
 | `6-aerial-beach.jpg` | 5261×3288 | Aerial over the beach | [52821641477](https://www.flickr.com/photos/spacex/52821641477/sizes/o/) |
+| `7-booster-engines.jpg` | 4096×2304 | Super Heavy engine bells, Flight 13 | [X orig](https://x.com/SpaceX/status/2081088918703759549) |
+| `8-s40-earth.jpg` | 3840×2160 | S40 over Earth, Flight 13 | [X orig](https://x.com/SpaceX/status/2081894924291654060) |
+| `9-s40-plasma.jpg` | 3840×2160 | S40 in plasma, Flight 13 | same |
 
-Photos © SpaceX, downloaded as Flickr originals.
+Photos © SpaceX. Flickr originals where they exist; Flight 13 from X `?name=orig`.
