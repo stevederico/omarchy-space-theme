@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.12.0
+
+  Drop Space pad stills
+  Default sunset pad
+
 0.11.0
 
   Add Burn triple plume
