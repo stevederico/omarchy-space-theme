@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.10.0
+
+  Add Burn ship fire still
+
 0.9.0
 
   Add S38 portrait still

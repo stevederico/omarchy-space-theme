@@ -30,5 +30,6 @@ omarchy theme set burn
 |------|------|------|--------|
 | `0-static-fire.jpg` | 2100×3149 | Super Heavy plume at night | [X orig](https://pbs.twimg.com/media/HIGiE3yaQAAEJGu?format=jpg&name=4096x4096) |
 | `1-raptor-plume.jpg` | 3000×2000 | Raptor bells firing | [X orig](https://pbs.twimg.com/media/G3_S4kWWYAAqLkX?format=jpg&name=4096x4096) |
+| `2-ship-fire.jpg` | 2253×3380 | Ship overhead in fire | [X orig](https://pbs.twimg.com/media/G0Q4MVmbcAANGka?format=jpg&name=4096x4096) |
 
 Photo © SpaceX.
