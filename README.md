@@ -78,5 +78,6 @@ Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](
 | `9-s40-plasma.jpg` | 3840×2160 | S40 in plasma, Flight 13 | same |
 | `10-sunset-pad.jpg` | 4096×2304 | Stacked Starship, magenta sunset | [X 4096](https://pbs.twimg.com/media/HN635FUWYAAzbOB?format=jpg&name=4096x4096) |
 | `11-s38-sun.jpg` | 1782×1032 | S38 over Earth, sun flare | [X orig](https://pbs.twimg.com/media/HALwXVHXkAApqIx?format=jpg&name=4096x4096) |
+| `12-starlink-stack.jpg` | 1280×720 | Starlink stack, Earth limb | [X orig](https://pbs.twimg.com/media/G4cgiwZXMAAcdgG?format=jpg&name=4096x4096) |
 
 Photos © SpaceX. Flickr originals where they exist; Flight 13 from X `?name=orig`.
