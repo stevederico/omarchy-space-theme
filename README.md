@@ -61,5 +61,6 @@ Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](
 | `7-booster-engines.jpg` | 4096×2304 | Super Heavy engine bells, Flight 13 | [X orig](https://x.com/SpaceX/status/2081088918703759549) |
 | `8-s40-earth.jpg` | 3840×2160 | S40 over Earth, Flight 13 | [X orig](https://x.com/SpaceX/status/2081894924291654060) |
 | `9-s40-plasma.jpg` | 3840×2160 | S40 in plasma, Flight 13 | same |
+| `10-sunset-pad.jpg` | 4096×2304 | Stacked Starship, magenta sunset | [X 4096](https://pbs.twimg.com/media/HN635FUWYAAzbOB?format=jpg&name=4096x4096) |
 
 Photos © SpaceX. Flickr originals where they exist; Flight 13 from X `?name=orig`.
