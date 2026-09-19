@@ -1,4 +1,4 @@
-# Space shell: glass bar, hairline chrome, sunset focus. 8px corners come from Hyprland rounding.
+# Space shell: glass bar, hairline chrome, sunset focus. Square corners from Hyprland rounding = 0.
 
 [bar]
 background       = "#0A0A0A"
