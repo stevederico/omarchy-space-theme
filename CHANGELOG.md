@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.7.0
+
+  Add Starlink stack still
+
 0.6.0
 
   Add Burn theme
