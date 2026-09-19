@@ -1,0 +1,39 @@
+mode = "dark"
+
+# Burn — Super Heavy static fire. Night void, ember chrome, flame gold.
+# Square corners, hairline borders. Same bones as Space, fire instead of sunset.
+
+accent = "#EB9E2D"
+selection = "#1F0800"
+muted = "#7B4313"
+
+background = "#0C0500"
+dark_background = "#080300"
+darker_background = "#050200"
+lighter_background = "#1F0800"
+
+foreground = "#F3B34B"
+dark_foreground = "#873A01"
+light_foreground = "#EBAF39"
+bright_foreground = "#FFE894"
+
+hyprland_active_border = "rgba(eb9e2dee) rgba(cc730eaa) 45deg"
+hyprland_inactive_border = "rgba(1f080066)"
+active_border_color = "#EB9E2D"
+active_tab_background = "#1F0800"
+
+red = "#CC730E"
+yellow = "#FED05D"
+orange = "#EB9E2D"
+green = "#A45207"
+cyan = "#EBAF39"
+blue = "#572201"
+magenta = "#A45207"
+brown = "#572201"
+
+bright_red = "#EB9E2D"
+bright_yellow = "#FFE894"
+bright_green = "#CC730E"
+bright_cyan = "#F3B34B"
+bright_blue = "#873A01"
+bright_magenta = "#F3B34B"

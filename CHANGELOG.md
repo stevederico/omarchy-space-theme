@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.6.0
+
+  Add Burn theme
+  Add S38 sun still
+
 0.5.0
 
   Add sunset pad still
