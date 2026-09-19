@@ -1,6 +1,6 @@
 # Space
 
-Repo: [stevederico/omarchy-themes](https://github.com/stevederico/omarchy-themes). Burn lives in [stevederico/omarchy-burn-theme](https://github.com/stevederico/omarchy-burn-theme).
+Repo: [stevederico/omarchy-space-theme](https://github.com/stevederico/omarchy-space-theme). Burn lives in [stevederico/omarchy-burn-theme](https://github.com/stevederico/omarchy-burn-theme).
 
 Omarchy theme from the Space design system: [stevederico/themes](https://github.com/stevederico/themes) `space/` and [stevederico/space-ui](https://github.com/stevederico/space-ui).
 
@@ -26,7 +26,7 @@ Active window border is sunset into twilight at 135°. Inactive is umbra hairlin
 User theme (keeps `hyprland.lua`):
 
 ```bash
-git clone https://github.com/stevederico/omarchy-themes.git ~/.config/omarchy/themes/space
+git clone https://github.com/stevederico/omarchy-space-theme.git ~/.config/omarchy/themes/space
 # then remove .git so Omarchy keeps hyprland.lua
 rm -rf ~/.config/omarchy/themes/space/.git
 omarchy theme set space
