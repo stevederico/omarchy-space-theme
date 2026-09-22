@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.16.0
+
+  Match x.ai ink
+  Drop midnight blue
+
 0.15.0
 
   Use Space tokens
