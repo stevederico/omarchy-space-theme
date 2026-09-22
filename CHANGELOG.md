@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.20.0
+
+  Add Starship background
+
 0.19.0
 
   Renumber background files
