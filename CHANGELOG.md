@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.19.0
+
+  Renumber background files
+
 0.18.0
 
   Use desktop preview
