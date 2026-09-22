@@ -4,7 +4,7 @@ Repo: [stevederico/omarchy-space-theme](https://github.com/stevederico/omarchy-s
 
 Omarchy theme from the Space design system: [stevederico/themes](https://github.com/stevederico/themes) `space/` and [stevederico/space-ui](https://github.com/stevederico/space-ui).
 
-Dark-first marketing chrome. Jet void, charcoal cards, dove text, sunset ring. Square corners, hairline borders, glass bar. Not Brutalist.
+Dark-first marketing chrome, matched to x.ai. Jet void, charcoal cards, off-white ink, sunset ring. Square corners, hairline borders, glass bar. Not Brutalist.
 
 ## Palette
 
@@ -12,16 +12,15 @@ Dark-first marketing chrome. Jet void, charcoal cards, dove text, sunset ring. S
 |------|--------|-----|
 | Background | jet | `#0A0A0A` |
 | Code well | codeblock | `#121212` |
-| Deep | midnight | `#0A1626` |
 | Card | charcoal | `#1A1A1A` |
 | Border / hover | umbra | `#1F2228` |
-| Text | dove | `#D5D9E2` |
+| Text | ink | `#ECECED` |
 | Muted | fog | `#7D8187` |
 | Accent / ring | sunset | `#FF6308` |
 | Violet | dusk / twilight | `#6C28D9` / `#A689FA` |
 | Info | breeze | `#9CB8DD` |
 
-Active window border is sunset into twilight at 135°. Inactive is umbra hairline. Hyprland rounding is 0 so windows and the shell stay square.
+Active window border is sunset. Inactive is an umbra hairline. Hyprland rounding is 0 so windows and the shell stay square.
 
 ## Install
 
@@ -63,5 +62,6 @@ Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](
 | `11-s38-sun.jpg` | 1782×1032 | S38 over Earth, sun flare | [X orig](https://pbs.twimg.com/media/HALwXVHXkAApqIx?format=jpg&name=4096x4096) |
 | `12-starlink-stack.jpg` | 1280×720 | Starlink stack, Earth limb | [X orig](https://pbs.twimg.com/media/G4cgiwZXMAAcdgG?format=jpg&name=4096x4096) |
 | `13-s38-portrait.jpg` | 1032×1782 | S38 over Earth, portrait | [X orig](https://pbs.twimg.com/media/G3fI7n5W4AAyRyB?format=jpg&name=4096x4096) |
+| `14-starship.jpg` | 1584×672 | Starship | Studio desktop |
 
 Photos © SpaceX. Flickr originals where they exist; Flight 13 from X `?name=orig`.
