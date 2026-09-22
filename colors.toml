@@ -1,27 +1,27 @@
 mode = "dark"
 
-# Space — x.ai / SpaceXAI marketing system.
-# Jet void, charcoal cards, x.ai ink, sunset ring. Square corners, hairline borders.
+# Space — x.ai accent on the Starship launch page.
+# Pure black, cool white #F0F0FA, gray #252628, sunset ring.
 # Not Brutalist: no mono-caps, no zero-radius slabs.
 
 accent = "#FF6308"
-selection = "#1F2228"
-muted = "#1F2228"
+selection = "#252628"
+muted = "#252628"
 
-background = "#0A0A0A"
-dark_background = "#121212"
-darker_background = "#0A0A0A"
-lighter_background = "#1A1A1A"
+background = "#000000"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#252628"
 
-foreground = "#ECECED"
-dark_foreground = "#7D8187"
-light_foreground = "#D5D9E2"
+foreground = "#F0F0FA"
+dark_foreground = "#78787D"
+light_foreground = "#A8A8AF"
 bright_foreground = "#FFFFFF"
 
 hyprland_active_border = "rgba(ff6308ee)"
-hyprland_inactive_border = "rgba(1f222866)"
+hyprland_inactive_border = "rgba(f0f0fa26)"
 active_border_color = "#FF6308"
-active_tab_background = "#1A1A1A"
+active_tab_background = "#252628"
 
 red = "#E24A2A"
 yellow = "#FFD085"
@@ -36,5 +36,5 @@ bright_red = "#FF6308"
 bright_yellow = "#FFD085"
 bright_green = "#6FD087"
 bright_cyan = "#9CB8DD"
-bright_blue = "#D5D9E2"
+bright_blue = "#F0F0FA"
 bright_magenta = "#A689FA"

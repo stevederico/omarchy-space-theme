@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.17.0
+
+  Use launch black
+  Use cool white
+
 0.16.0
 
   Match x.ai ink
