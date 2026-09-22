@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.18.0
+
+  Use desktop preview
+
 0.17.0
 
   Use launch black
