@@ -11,6 +11,8 @@ Dark-first marketing chrome. Jet void, charcoal cards, dove text, sunset ring. S
 | Role | Token | Hex |
 |------|--------|-----|
 | Background | jet | `#0A0A0A` |
+| Code well | codeblock | `#121212` |
+| Deep | midnight | `#0A1626` |
 | Card | charcoal | `#1A1A1A` |
 | Border / hover | umbra | `#1F2228` |
 | Text | dove | `#D5D9E2` |

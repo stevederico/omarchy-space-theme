@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.15.0
+
+  Use Space tokens
+  Drop extra black
+
 0.14.0
 
   Rename to omarchy-space-theme
