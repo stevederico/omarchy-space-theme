@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Space colors</title>
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #000000;
+    --card: #252628;
+    --text: #F0F0FA;
+    --muted: #949AA2;
+    --faint: #A8A8AF;
+    --line: rgba(240, 240, 250, 0.15);
+    --sunset: #FF6308;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 15px/1.45 system-ui, sans-serif;
+  }
+  main { max-width: 1040px; margin: 0 auto; padding: 48px 32px 80px; }
+  h1 { margin: 0 0 8px; font-size: 32px; font-weight: 560; letter-spacing: -0.02em; }
+  .lede { margin: 0 0 40px; color: var(--faint); max-width: 42em; }
+  h2 { margin: 40px 0 14px; font-size: 15px; font-weight: 560; color: var(--text); }
+  .note { margin: -6px 0 14px; color: var(--muted); font-size: 13px; }
+  .row { display: grid; grid-template-columns: repeat(auto-fill, minmax(148px, 1fr)); gap: 12px; }
+  figure { margin: 0; }
+  .swatch {
+    height: 112px;
+    border: 1px solid var(--line);
+  }
+  figcaption { padding: 8px 0 0; }
+  .name { display: block; color: var(--text); }
+  .hex { display: block; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .panel { border: 1px solid var(--line); padding: 28px; min-height: 160px; }
+  .panel strong { display: block; font-size: 22px; font-weight: 560; margin-bottom: 8px; }
+  .panel span { color: var(--faint); }
+  .mark {
+    height: 220px;
+    display: grid;
+    place-items: center;
+    border: 1px solid var(--line);
+  }
+  .mark i {
+    width: 120px;
+    height: 120px;
+    border: 18px solid currentColor;
+    display: block;
+  }
+  .rings { display: flex; gap: 16px; }
+  .ring {
+    width: 160px;
+    height: 96px;
+    background: var(--bg);
+  }
+  @media (max-width: 640px) {
+    .pair { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>Space colors</h1>
+  <p class="lede">Black, cool white, and sunset. Muted text and the terminal hues are light enough to read on black.</p>
+
+  <h2>Page</h2>
+  <div class="pair">
+    <div class="panel" style="background:#000000">
+      <strong>Black</strong>
+      <span>#000000 background</span>
+    </div>
+    <div class="panel" style="background:#252628">
+      <strong>Card</strong>
+      <span>#252628 gray</span>
+    </div>
+  </div>
+
+  <h2>Text</h2>
+  <div class="row">
+    <figure><div class="swatch" style="background:#949AA2"></div><figcaption><span class="name">Muted</span><span class="hex">#949AA2</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#A8A8AF"></div><figcaption><span class="name">Light</span><span class="hex">#A8A8AF</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#F0F0FA"></div><figcaption><span class="name">Text</span><span class="hex">#F0F0FA</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#FFFFFF"></div><figcaption><span class="name">Bright</span><span class="hex">#FFFFFF</span></figcaption></figure>
+  </div>
+
+  <h2>Sunset</h2>
+  <p class="note">The only bright color. Window line and focus.</p>
+  <div class="rings">
+    <div class="ring" style="border:1px solid #FF6308"></div>
+    <div class="ring" style="border:1px solid rgba(240,240,250,0.15)"></div>
+  </div>
+  <div class="row" style="margin-top:12px">
+    <figure><div class="swatch" style="background:#FF6308"></div><figcaption><span class="name">Sunset</span><span class="hex">#FF6308</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#000;border-color:rgba(240,240,250,0.15)"></div><figcaption><span class="name">Inactive line</span><span class="hex">#F0F0FA at 15%</span></figcaption></figure>
+  </div>
+
+  <h2>Mark</h2>
+  <p class="note">About logo color. Now, then the 0.17.0 mint.</p>
+  <div class="pair">
+    <figure>
+      <div class="mark" style="color:#6FD087"><i></i></div>
+      <figcaption><span class="name">Green</span><span class="hex">#6FD087</span></figcaption>
+    </figure>
+    <figure>
+      <div class="mark" style="color:#6FD087"><i></i></div>
+      <figcaption><span class="name">Green 0.17.0</span><span class="hex">#6FD087</span></figcaption>
+    </figure>
+  </div>
+
+  <h2>ANSI</h2>
+  <div class="row">
+    <figure><div class="swatch" style="background:#E24A2A"></div><figcaption><span class="name">Red</span><span class="hex">#E24A2A</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#FFD085"></div><figcaption><span class="name">Yellow</span><span class="hex">#FFD085</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#FF6308"></div><figcaption><span class="name">Orange</span><span class="hex">#FF6308</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#6FD087"></div><figcaption><span class="name">Green</span><span class="hex">#6FD087</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#9CB8DD"></div><figcaption><span class="name">Cyan</span><span class="hex">#9CB8DD</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#7AAAD4"></div><figcaption><span class="name">Blue</span><span class="hex">#7AAAD4</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#A689FA"></div><figcaption><span class="name">Magenta</span><span class="hex">#A689FA</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#B08A68"></div><figcaption><span class="name">Brown</span><span class="hex">#B08A68</span></figcaption></figure>
+  </div>
+
+  <h2>Bright ANSI</h2>
+  <div class="row">
+    <figure><div class="swatch" style="background:#FF6308"></div><figcaption><span class="name">Bright red</span><span class="hex">#FF6308</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#FFE4B0"></div><figcaption><span class="name">Bright yellow</span><span class="hex">#FFE4B0</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#8FE0B0"></div><figcaption><span class="name">Bright green</span><span class="hex">#8FE0B0</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#C5D8EE"></div><figcaption><span class="name">Bright cyan</span><span class="hex">#C5D8EE</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#C5D6F2"></div><figcaption><span class="name">Bright blue</span><span class="hex">#C5D6F2</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#C4B5FC"></div><figcaption><span class="name">Bright magenta</span><span class="hex">#C4B5FC</span></figcaption></figure>
+  </div>
+
+  <h2>0.17.0</h2>
+  <p class="note">The bright set that was on workspace 5.</p>
+  <div class="row">
+    <figure><div class="swatch" style="background:#E24A2A"></div><figcaption><span class="name">Red</span><span class="hex">#E24A2A</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#FFD085"></div><figcaption><span class="name">Yellow</span><span class="hex">#FFD085</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#6FD087"></div><figcaption><span class="name">Green</span><span class="hex">#6FD087</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#9CB8DD"></div><figcaption><span class="name">Cyan</span><span class="hex">#9CB8DD</span></figcaption></figure>
+    <figure><div class="swatch" style="background:#A689FA"></div><figcaption><span class="name">Magenta</span><span class="hex">#A689FA</span></figcaption></figure>
+  </div>
+</main>
+</body>
+</html>

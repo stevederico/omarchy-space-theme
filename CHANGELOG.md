@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.21.0
+
+  Lift muted text
+  Restore terminal colors
+
 0.20.0
 
   Add Starship background

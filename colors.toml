@@ -1,12 +1,13 @@
 mode = "dark"
 
 # Space — x.ai accent on the Starship launch page.
-# Pure black, cool white #F0F0FA, gray #252628, sunset ring.
+# Pure black, cool white #F0F0FA, card gray #252628, sunset ring.
+# muted is secondary text (ANSI bright black). It has to read on black and on the card.
 # Not Brutalist: no mono-caps, no zero-radius slabs.
 
 accent = "#FF6308"
 selection = "#252628"
-muted = "#252628"
+muted = "#949AA2"
 
 background = "#000000"
 dark_background = "#000000"
@@ -14,7 +15,7 @@ darker_background = "#000000"
 lighter_background = "#252628"
 
 foreground = "#F0F0FA"
-dark_foreground = "#78787D"
+dark_foreground = "#8A8E94"
 light_foreground = "#A8A8AF"
 bright_foreground = "#FFFFFF"
 
@@ -28,13 +29,13 @@ yellow = "#FFD085"
 orange = "#FF6308"
 green = "#6FD087"
 cyan = "#9CB8DD"
-blue = "#9CB8DD"
+blue = "#7AAAD4"
 magenta = "#A689FA"
-brown = "#24282D"
+brown = "#B08A68"
 
 bright_red = "#FF6308"
-bright_yellow = "#FFD085"
-bright_green = "#6FD087"
-bright_cyan = "#9CB8DD"
-bright_blue = "#F0F0FA"
-bright_magenta = "#A689FA"
+bright_yellow = "#FFE4B0"
+bright_green = "#8FE0B0"
+bright_cyan = "#C5D8EE"
+bright_blue = "#C5D6F2"
+bright_magenta = "#C4B5FC"
