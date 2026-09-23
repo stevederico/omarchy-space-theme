@@ -14,7 +14,7 @@ Dark-first marketing chrome. Starship launch page black and cool white, with the
 | Card | launch gray | `#252628` |
 | Border | white 15% | `#F0F0FA` at 15% |
 | Text | launch white | `#F0F0FA` |
-| Muted | white 50% | `#78787D` |
+| Muted | secondary text | `#949AA2` |
 | Accent / ring | sunset | `#FF6308` |
 | Violet | dusk / twilight | `#6C28D9` / `#A689FA` |
 | Info | breeze | `#9CB8DD` |
