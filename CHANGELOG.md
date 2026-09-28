@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.22.0
+
+  Add Starship launch background
+
 0.21.0
 
   Lift muted text
