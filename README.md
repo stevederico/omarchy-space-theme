@@ -6,6 +6,8 @@ Omarchy theme from the Space design system: [stevederico/space-ui](https://githu
 
 Dark-first marketing chrome. Starship launch page black and cool white, with the x.ai sunset ring. Square corners, hairline borders, glass bar. Not Brutalist.
 
+![Space on workspace 1](screenshot.webp)
+
 ## Palette
 
 | Role | Token | Hex |

@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.24.0
+
+  Add workspace screenshot
+  Show screenshot README
+
 0.23.0
 
   Default Starship launch
