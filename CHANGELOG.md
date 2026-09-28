@@ -2,6 +2,13 @@
 
 - Extra Space variants
 
+0.26.0
+
+  Fix README links
+  Fix violet color
+  Rename source column
+  Remove Burn mention
+
 0.25.0
 
   Update preview image

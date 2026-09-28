@@ -1,6 +1,6 @@
 # Space
 
-Repo: [stevederico/omarchy-space-theme](https://github.com/stevederico/omarchy-space-theme). Burn lives in [stevederico/omarchy-burn-theme](https://github.com/stevederico/omarchy-burn-theme).
+Repo: [stevederico/omarchy-space-theme](https://github.com/stevederico/omarchy-space-theme).
 
 Omarchy theme from the Space design system: [stevederico/space-ui](https://github.com/stevederico/space-ui).
 
@@ -18,7 +18,7 @@ Dark-first marketing chrome. Starship launch page black and cool white, with the
 | Text | launch white | `#F0F0FA` |
 | Muted | secondary text | `#949AA2` |
 | Accent / ring | sunset | `#FF6308` |
-| Violet | dusk / twilight | `#6C28D9` / `#A689FA` |
+| Violet | magenta | `#A689FA` |
 | Info | breeze | `#9CB8DD` |
 
 Active window border is sunset. Inactive is a cool-white hairline. Hyprland rounding is 0 so windows and the shell stay square.
@@ -49,9 +49,9 @@ Backgrounds cycle with Super+Ctrl+Space.
 
 ## Backgrounds
 
-Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](https://www.flickr.com/photos/spacex). Flight 13 booster and S40 shots are X `orig` — those frames are not on Flickr, and spacex.com stills are 2600×1200 web crops.
+Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](https://www.flickr.com/photos/spacex). Every row linked to x.com or pbs.twimg.com is an X `orig` frame. Those are not on Flickr, and spacex.com stills are 2600×1200 web crops.
 
-| File | Size | Shot | Flickr |
+| File | Size | Shot | Source |
 |------|------|------|--------|
 | `0-starship-launch.jpg` | 4096×2304 | Starship lifting off, sunlit steam **(default)** | [X orig](https://pbs.twimg.com/media/HTU8eCGWMAADqQ6?format=jpg&name=4096x4096) |
 | `1-chopstick-gold.jpg` | 3840×2748 | Chopsticks, golden hour | [52822624215](https://www.flickr.com/photos/spacex/52822624215/sizes/o/) |
@@ -66,4 +66,4 @@ Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](
 | `10-starship.jpg` | 1584×672 | Starship | Studio desktop |
 | `11-steam-stack.jpg` | 3840×2400 | Stack in steam | [52621815136](https://www.flickr.com/photos/spacex/52621815136/sizes/o/) |
 
-Photos © SpaceX. Flickr originals where they exist; Flight 13 from X `?name=orig`.
+Photos © SpaceX. Flickr originals where they exist; the rest from X `?name=orig`.
