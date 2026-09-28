@@ -2,6 +2,12 @@
 
 - Extra Space variants
 
+0.23.0
+
+  Default Starship launch
+  Move sunset pad
+  Move steam stack
+
 0.22.0
 
   Add Starship launch background
