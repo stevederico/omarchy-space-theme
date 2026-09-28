@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.25.0
+
+  Update preview image
+
 0.24.0
 
   Add workspace screenshot
