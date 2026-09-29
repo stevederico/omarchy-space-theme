@@ -1,41 +1,41 @@
 mode = "dark"
 
-# Space — x.ai accent on the Starship launch page.
-# Pure black, cool white #F0F0FA, card gray #252628, sunset ring.
-# muted is secondary text (ANSI bright black). It has to read on black and on the card.
+# Space — palette extracted by Aether from 0-starship-launch.jpg (normal mode).
+# Warm launch-night black, exhaust cream, sky blue accent, flame golds.
+# Slots follow Aether's hue ranking, so red/green/magenta carry the photo's tones.
 # Not Brutalist: no mono-caps, no zero-radius slabs.
 
-accent = "#FF6308"
-selection = "#252628"
-muted = "#949AA2"
+accent = "#537CBB"
+selection = "#231D1A"
+muted = "#6D6763"
 
-background = "#000000"
-dark_background = "#000000"
-darker_background = "#000000"
-lighter_background = "#252628"
+background = "#0B0401"
+dark_background = "#080301"
+darker_background = "#060201"
+lighter_background = "#231D1A"
 
-foreground = "#F0F0FA"
-dark_foreground = "#8A8E94"
-light_foreground = "#A8A8AF"
-bright_foreground = "#FFFFFF"
+foreground = "#EDDDC3"
+dark_foreground = "#B2A692"
+light_foreground = "#F0E2CC"
+bright_foreground = "#F2E6D2"
 
-hyprland_active_border = "rgba(ff6308ee)"
-hyprland_inactive_border = "rgba(f0f0fa26)"
-active_border_color = "#FF6308"
-active_tab_background = "#252628"
+hyprland_active_border = "rgba(537cbbee)"
+hyprland_inactive_border = "rgba(edddc326)"
+active_border_color = "#537CBB"
+active_tab_background = "#231D1A"
 
-red = "#E24A2A"
-yellow = "#FFD085"
-orange = "#FF6308"
-green = "#6FD087"
-cyan = "#9CB8DD"
-blue = "#7AAAD4"
-magenta = "#A689FA"
-brown = "#B08A68"
+red = "#AC7136"
+yellow = "#F9E68A"
+orange = "#B88654"
+green = "#EFCF84"
+cyan = "#67AFDF"
+blue = "#537CBB"
+magenta = "#5181BF"
+brown = "#6E5032"
 
-bright_red = "#FF6308"
-bright_yellow = "#FFE4B0"
-bright_green = "#8FE0B0"
-bright_cyan = "#C5D8EE"
-bright_blue = "#C5D6F2"
-bright_magenta = "#C4B5FC"
+bright_red = "#D79545"
+bright_yellow = "#FFEE4E"
+bright_green = "#FFDB57"
+bright_cyan = "#86D4FF"
+bright_blue = "#749FEF"
+bright_magenta = "#71A4F3"

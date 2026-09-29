@@ -2,6 +2,16 @@
 
 - Extra Space variants
 
+0.27.0
+
+  Add Aether palette
+  Update shell colors
+  Update border accent
+  Update keyboard color
+  Switch Yaru-blue icons
+  Update colors page
+  Update README palette
+
 0.26.0
 
   Fix README links

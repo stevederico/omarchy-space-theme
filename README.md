@@ -4,7 +4,7 @@ Repo: [stevederico/omarchy-space-theme](https://github.com/stevederico/omarchy-s
 
 Omarchy theme from the Space design system: [stevederico/space-ui](https://github.com/stevederico/space-ui).
 
-Dark-first marketing chrome. Starship launch page black and cool white, with the x.ai sunset ring. Square corners, hairline borders, glass bar. Not Brutalist.
+Dark-first marketing chrome. Colors extracted by [Aether](https://github.com/omacom/aether) from the default Starship launch photo: launch-night black, exhaust cream, sky blue ring. Square corners, hairline borders, glass bar. Not Brutalist.
 
 ![Space on workspace 1](screenshot.webp)
 
@@ -12,16 +12,22 @@ Dark-first marketing chrome. Starship launch page black and cool white, with the
 
 | Role | Token | Hex |
 |------|--------|-----|
-| Background | launch black | `#000000` |
-| Card | launch gray | `#252628` |
-| Border | white 15% | `#F0F0FA` at 15% |
-| Text | launch white | `#F0F0FA` |
-| Muted | secondary text | `#949AA2` |
-| Accent / ring | sunset | `#FF6308` |
-| Violet | magenta | `#A689FA` |
-| Info | breeze | `#9CB8DD` |
+| Background | launch night | `#0B0401` |
+| Card | launch gray | `#231D1A` |
+| Border | cream 15% | `#EDDDC3` at 15% |
+| Text | exhaust cream | `#EDDDC3` |
+| Muted | secondary text | `#6D6763` |
+| Accent / ring | sky blue | `#537CBB` |
+| Flame | green slot | `#EFCF84` |
+| Info | cyan | `#67AFDF` |
 
-Active window border is sunset. Inactive is a cool-white hairline. Hyprland rounding is 0 so windows and the shell stay square.
+Regenerate from a photo without applying it:
+
+```bash
+aether --generate backgrounds/0-starship-launch.jpg --no-apply --output /tmp/aether
+```
+
+Active window border is sky blue. Inactive is a cream hairline. Hyprland rounding is 0 so windows and the shell stay square.
 
 ## Install
 
