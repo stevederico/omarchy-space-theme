@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.28.0
+
+  Update preview screenshot
+  Update README screenshot
+
 0.27.0
 
   Add Aether palette
