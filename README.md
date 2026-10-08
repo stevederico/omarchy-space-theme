@@ -71,9 +71,9 @@ Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](
 | `7-heatshield-bw.jpg` | **5472×3076** | Heatshield stack, B&W | [51369631902](https://www.flickr.com/photos/spacex/51369631902/sizes/o/) |
 | `8-orbital-liftoff.jpg` | 6144×3456 (6K) | Liftoff in golden steam, first orbital flight | [X orig](https://x.com/SpaceX/status/2104654998034690329/photo/2) |
 | `9-chopstick-gold.jpg` | 6144×4396 (6K) | Chopsticks, golden hour | [52822624215](https://www.flickr.com/photos/spacex/52822624215/sizes/o/) |
-| `10-starship.jpg` | 1584×672 | Starship | Studio desktop |
+| `10-starship.jpg` | 6144×2606 (6K) | Starship | Studio desktop |
 | `11-steam-stack.jpg` | 6144×3840 (6K) | Stack in steam | [52621815136](https://www.flickr.com/photos/spacex/52621815136/sizes/o/) |
 
 Photos © SpaceX. Flickr originals where they exist; the rest from X `?name=orig`.
 
-(6K) rows are Topaz High Fidelity V2 2x upscales of the source, then lanczos down to a 6144 long edge. `7-heatshield-bw.jpg` is a 5472 wide original and is not upscaled.
+(6K) rows are Topaz High Fidelity V2 2x upscales of the source (4x for `10-starship.jpg`), then lanczos down to a 6144 long edge. `7-heatshield-bw.jpg` is a 5472 wide original and is not upscaled.

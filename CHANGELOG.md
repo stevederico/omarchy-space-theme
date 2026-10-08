@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.36.0
+
+  Upscale Starship background
+
 0.35.0
 
   Swap clouds, heatshield
