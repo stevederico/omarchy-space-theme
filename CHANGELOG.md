@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.44.0
+
+  Clarify background sources
+  Unify source links
+
 0.43.0
 
   Move backgrounds grid
