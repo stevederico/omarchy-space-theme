@@ -2,6 +2,13 @@
 
 - Extra Space variants
 
+0.32.0
+
+  Add orbital flight stills
+  Add Flight 14 dawn
+  Replace S40 Earth
+  Remove low-res stills
+
 0.31.0
 
   Link Burn theme
