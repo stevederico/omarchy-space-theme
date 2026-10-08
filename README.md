@@ -59,7 +59,7 @@ Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](
 
 | File | Size | Shot | Source |
 |------|------|------|--------|
-| `0-starship-launch.jpg` | 4096×2304 | Starship lifting off, sunlit steam **(default)** | [X orig](https://pbs.twimg.com/media/HTU8eCGWMAADqQ6?format=jpg&name=4096x4096) |
+| `0-starship-launch.jpg` | **6144×3456** | Starship lifting off, sunlit steam **(default)** | [X orig](https://pbs.twimg.com/media/HTU8eCGWMAADqQ6?format=jpg&name=4096x4096) 4096×2304, Topaz High Fidelity V2 2x upscale, lanczos to 6K |
 | `1-chopstick-gold.jpg` | 3840×2748 | Chopsticks, golden hour | [52822624215](https://www.flickr.com/photos/spacex/52822624215/sizes/o/) |
 | `2-heatshield-bw.jpg` | **5472×3076** | Heatshield stack, B&W | [51369631902](https://www.flickr.com/photos/spacex/51369631902/sizes/o/) |
 | `3-sunset-pad.jpg` | 4096×2304 | Stacked Starship, magenta sunset | [X 4096](https://pbs.twimg.com/media/HN635FUWYAAzbOB?format=jpg&name=4096x4096) |

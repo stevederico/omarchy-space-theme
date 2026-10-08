@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.29.0
+
+  Upscale launch background
+  Update README size
+
 0.28.0
 
   Update preview screenshot
