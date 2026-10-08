@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.37.0
+
+  Add Raptor liftoff
+  Remove chopstick gold
+
 0.36.0
 
   Upscale Starship background
