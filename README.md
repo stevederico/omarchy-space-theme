@@ -64,11 +64,11 @@ Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](
 | `0-starship-launch.jpg` | 6144×3456 (6K) | Starship lifting off, sunlit steam **(default)** | [X orig](https://pbs.twimg.com/media/HTU8eCGWMAADqQ6?format=jpg&name=4096x4096) |
 | `1-sunset-pad.jpg` | 6144×3456 (6K) | Stacked Starship, magenta sunset | [X 4096](https://pbs.twimg.com/media/HN635FUWYAAzbOB?format=jpg&name=4096x4096) |
 | `2-flight14-dawn.jpg` | 6144×3314 (6K) | Dawn liftoff, pink flame, Flight 14 | [X orig](https://x.com/SpaceX/status/2105352066424017118/photo/2) |
-| `3-heatshield-bw.jpg` | **5472×3076** | Heatshield stack, B&W | [51369631902](https://www.flickr.com/photos/spacex/51369631902/sizes/o/) |
+| `3-orbital-clouds.jpg` | 6144×3456 (6K) | Starship climbing over clouds and coast, first orbital flight | [X orig](https://x.com/SpaceX/status/2104654998034690329/photo/4) |
 | `4-booster-engines.jpg` | 6144×3456 (6K) | Super Heavy engine bells, Flight 13 | [X orig](https://x.com/SpaceX/status/2081088918703759549) |
 | `5-starlink-earth.jpg` | 6144×3456 (6K) | S41 over Earth, first orbital flight | [X orig](https://x.com/SpaceX/status/2106090316747207047/photo/3) |
 | `6-s40-plasma.jpg` | 6144×3456 (6K) | S40 in plasma, Flight 13 | [X orig](https://x.com/SpaceX/status/2081894924291654060) |
-| `7-orbital-clouds.jpg` | 6144×3456 (6K) | Starship climbing over clouds and coast, first orbital flight | [X orig](https://x.com/SpaceX/status/2104654998034690329/photo/4) |
+| `7-heatshield-bw.jpg` | **5472×3076** | Heatshield stack, B&W | [51369631902](https://www.flickr.com/photos/spacex/51369631902/sizes/o/) |
 | `8-orbital-liftoff.jpg` | 6144×3456 (6K) | Liftoff in golden steam, first orbital flight | [X orig](https://x.com/SpaceX/status/2104654998034690329/photo/2) |
 | `9-chopstick-gold.jpg` | 6144×4396 (6K) | Chopsticks, golden hour | [52822624215](https://www.flickr.com/photos/spacex/52822624215/sizes/o/) |
 | `10-starship.jpg` | 1584×672 | Starship | Studio desktop |
@@ -76,4 +76,4 @@ Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](
 
 Photos © SpaceX. Flickr originals where they exist; the rest from X `?name=orig`.
 
-(6K) rows are Topaz High Fidelity V2 2x upscales of the source, then lanczos down to a 6144 long edge. `3-heatshield-bw.jpg` is a 5472 wide original and is not upscaled.
+(6K) rows are Topaz High Fidelity V2 2x upscales of the source, then lanczos down to a 6144 long edge. `7-heatshield-bw.jpg` is a 5472 wide original and is not upscaled.

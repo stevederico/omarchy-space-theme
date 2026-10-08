@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.35.0
+
+  Swap clouds, heatshield
+
 0.34.0
 
   Swap dawn, chopsticks
