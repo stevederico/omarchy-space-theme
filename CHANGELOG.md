@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.38.0
+
+  Move Raptor liftoff
+
 0.37.0
 
   Add Raptor liftoff
