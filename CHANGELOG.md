@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.30.0
+
+  Upscale six backgrounds
+  Add upscale note
+
 0.29.0
 
   Upscale launch background

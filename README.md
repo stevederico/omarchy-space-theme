@@ -59,17 +59,19 @@ Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](
 
 | File | Size | Shot | Source |
 |------|------|------|--------|
-| `0-starship-launch.jpg` | **6144×3456** | Starship lifting off, sunlit steam **(default)** | [X orig](https://pbs.twimg.com/media/HTU8eCGWMAADqQ6?format=jpg&name=4096x4096) 4096×2304, Topaz High Fidelity V2 2x upscale, lanczos to 6K |
-| `1-chopstick-gold.jpg` | 3840×2748 | Chopsticks, golden hour | [52822624215](https://www.flickr.com/photos/spacex/52822624215/sizes/o/) |
+| `0-starship-launch.jpg` | 6144×3456 (6K) | Starship lifting off, sunlit steam **(default)** | [X orig](https://pbs.twimg.com/media/HTU8eCGWMAADqQ6?format=jpg&name=4096x4096) |
+| `1-chopstick-gold.jpg` | 6144×4396 (6K) | Chopsticks, golden hour | [52822624215](https://www.flickr.com/photos/spacex/52822624215/sizes/o/) |
 | `2-heatshield-bw.jpg` | **5472×3076** | Heatshield stack, B&W | [51369631902](https://www.flickr.com/photos/spacex/51369631902/sizes/o/) |
-| `3-sunset-pad.jpg` | 4096×2304 | Stacked Starship, magenta sunset | [X 4096](https://pbs.twimg.com/media/HN635FUWYAAzbOB?format=jpg&name=4096x4096) |
-| `4-booster-engines.jpg` | 4096×2304 | Super Heavy engine bells, Flight 13 | [X orig](https://x.com/SpaceX/status/2081088918703759549) |
-| `5-s40-earth.jpg` | 3840×2160 | S40 over Earth, Flight 13 | [X orig](https://x.com/SpaceX/status/2081894924291654060) |
-| `6-s40-plasma.jpg` | 3840×2160 | S40 in plasma, Flight 13 | same |
+| `3-sunset-pad.jpg` | 6144×3456 (6K) | Stacked Starship, magenta sunset | [X 4096](https://pbs.twimg.com/media/HN635FUWYAAzbOB?format=jpg&name=4096x4096) |
+| `4-booster-engines.jpg` | 6144×3456 (6K) | Super Heavy engine bells, Flight 13 | [X orig](https://x.com/SpaceX/status/2081088918703759549) |
+| `5-s40-earth.jpg` | 6144×3456 (6K) | S40 over Earth, Flight 13 | [X orig](https://x.com/SpaceX/status/2081894924291654060) |
+| `6-s40-plasma.jpg` | 6144×3456 (6K) | S40 in plasma, Flight 13 | same |
 | `7-s38-sun.jpg` | 1782×1032 | S38 over Earth, sun flare | [X orig](https://pbs.twimg.com/media/HALwXVHXkAApqIx?format=jpg&name=4096x4096) |
 | `8-starlink-stack.jpg` | 1280×720 | Starlink stack, Earth limb | [X orig](https://pbs.twimg.com/media/G4cgiwZXMAAcdgG?format=jpg&name=4096x4096) |
 | `9-s38-portrait.jpg` | 1032×1782 | S38 over Earth, portrait | [X orig](https://pbs.twimg.com/media/G3fI7n5W4AAyRyB?format=jpg&name=4096x4096) |
 | `10-starship.jpg` | 1584×672 | Starship | Studio desktop |
-| `11-steam-stack.jpg` | 3840×2400 | Stack in steam | [52621815136](https://www.flickr.com/photos/spacex/52621815136/sizes/o/) |
+| `11-steam-stack.jpg` | 6144×3840 (6K) | Stack in steam | [52621815136](https://www.flickr.com/photos/spacex/52621815136/sizes/o/) |
 
 Photos © SpaceX. Flickr originals where they exist; the rest from X `?name=orig`.
+
+(6K) rows are Topaz High Fidelity V2 2x upscales of the source, then lanczos down to a 6144 long edge. `2-heatshield-bw.jpg` is a 5472 wide original and is not upscaled.
