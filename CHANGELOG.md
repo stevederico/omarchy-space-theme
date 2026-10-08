@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.43.0
+
+  Move backgrounds grid
+
 0.42.0
 
   Add theme install command
