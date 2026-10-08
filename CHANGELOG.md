@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.41.0
+
+  Upscale heatshield background
+  Update backgrounds grid
+
 0.40.0
 
   Add backgrounds grid
