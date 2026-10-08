@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.34.0
+
+  Swap dawn, chopsticks
+
 0.33.0
 
   Move sunset pad
