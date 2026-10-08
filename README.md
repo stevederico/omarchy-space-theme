@@ -4,6 +4,8 @@ Repo: [stevederico/omarchy-space-theme](https://github.com/stevederico/omarchy-s
 
 Omarchy theme from the Space design system: [stevederico/space-ui](https://github.com/stevederico/space-ui).
 
+Sister theme: [Burn](https://github.com/stevederico/omarchy-burn-theme), Super Heavy night static fire.
+
 Dark-first marketing chrome. Colors extracted by [Aether](https://github.com/omacom/aether) from the default Starship launch photo: launch-night black, exhaust cream, sky blue ring. Square corners, hairline borders, glass bar. Not Brutalist.
 
 ![Space on workspace 1](screenshot.webp)

@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.31.0
+
+  Link Burn theme
+
 0.30.0
 
   Upscale six backgrounds
