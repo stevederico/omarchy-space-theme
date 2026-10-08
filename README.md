@@ -33,7 +33,11 @@ Active window border is sky blue. Inactive is a cream hairline. Hyprland roundin
 
 ## Install
 
-User theme (keeps `hyprland.lua`):
+```bash
+omarchy theme install https://github.com/stevederico/omarchy-space-theme
+```
+
+Installs as `space` and applies it right away. Git installs drop `*.lua`, so the theme's `hyprland.lua` (square corners, hairline border) is skipped. To keep it, install as a user theme instead:
 
 ```bash
 git clone https://github.com/stevederico/omarchy-space-theme.git ~/.config/omarchy/themes/space
@@ -50,8 +54,6 @@ cp -a colors.toml hyprland.lua shell.toml icons.theme keyboard.rgb preview.png b
   ~/.config/omarchy/themes/space/
 omarchy theme set space
 ```
-
-`omarchy theme install` from a git URL drops `*.lua`. Copy as a user theme if you want the theme's `hyprland.lua` (square corners, hairline border).
 
 Backgrounds cycle with Super+Ctrl+Space.
 

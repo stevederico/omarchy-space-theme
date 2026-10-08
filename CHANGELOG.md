@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.42.0
+
+  Add theme install command
+
 0.41.0
 
   Upscale heatshield background
