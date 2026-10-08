@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.33.0
+
+  Move sunset pad
+
 0.32.0
 
   Add orbital flight stills
