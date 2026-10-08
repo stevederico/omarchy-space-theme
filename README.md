@@ -68,12 +68,12 @@ Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](
 | `4-booster-engines.jpg` | 6144×3456 (6K) | Super Heavy engine bells, Flight 13 | [X orig](https://x.com/SpaceX/status/2081088918703759549) |
 | `5-raptor-liftoff.jpg` | 6144×4096 (6K) | Super Heavy liftoff, 33 Raptor 3 engines from below | [X orig](https://x.com/SpaceX/status/2105061657558786148/photo/1) |
 | `6-starlink-earth.jpg` | 6144×3456 (6K) | S41 over Earth, first orbital flight | [X orig](https://x.com/SpaceX/status/2106090316747207047/photo/3) |
-| `7-s40-plasma.jpg` | 6144×3456 (6K) | S40 in plasma, Flight 13 | [X orig](https://x.com/SpaceX/status/2081894924291654060) |
+| `7-starship.jpg` | 6144×2606 (6K) | Starship | Studio desktop |
 | `8-heatshield-bw.jpg` | **5472×3076** | Heatshield stack, B&W | [51369631902](https://www.flickr.com/photos/spacex/51369631902/sizes/o/) |
 | `9-orbital-liftoff.jpg` | 6144×3456 (6K) | Liftoff in golden steam, first orbital flight | [X orig](https://x.com/SpaceX/status/2104654998034690329/photo/2) |
-| `10-starship.jpg` | 6144×2606 (6K) | Starship | Studio desktop |
+| `10-s40-plasma.jpg` | 6144×3456 (6K) | S40 in plasma, Flight 13 | [X orig](https://x.com/SpaceX/status/2081894924291654060) |
 | `11-steam-stack.jpg` | 6144×3840 (6K) | Stack in steam | [52621815136](https://www.flickr.com/photos/spacex/52621815136/sizes/o/) |
 
 Photos © SpaceX. Flickr originals where they exist; the rest from X `?name=orig`.
 
-(6K) rows are Topaz High Fidelity V2 2x upscales of the source (4x for `10-starship.jpg`), then lanczos down to a 6144 long edge. `8-heatshield-bw.jpg` is a 5472 wide original and is not upscaled.
+(6K) rows are Topaz High Fidelity V2 2x upscales of the source (4x for `7-starship.jpg`), then lanczos down to a 6144 long edge. `8-heatshield-bw.jpg` is a 5472 wide original and is not upscaled.

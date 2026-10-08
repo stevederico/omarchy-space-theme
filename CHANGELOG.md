@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.39.0
+
+  Swap Starship, plasma
+
 0.38.0
 
   Move Raptor liftoff
