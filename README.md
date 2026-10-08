@@ -57,6 +57,8 @@ Backgrounds cycle with Super+Ctrl+Space.
 
 ## Backgrounds
 
+![All 12 backgrounds with file names and sizes](backgrounds-grid.webp)
+
 Pad stills are official SpaceX camera originals from [flickr.com/photos/spacex](https://www.flickr.com/photos/spacex). Every row linked to x.com or pbs.twimg.com is an X `orig` frame. Those are not on Flickr, and spacex.com stills are 2600×1200 web crops.
 
 | File | Size | Shot | Source |

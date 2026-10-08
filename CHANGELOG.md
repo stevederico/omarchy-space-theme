@@ -2,6 +2,10 @@
 
 - Extra Space variants
 
+0.40.0
+
+  Add backgrounds grid
+
 0.39.0
 
   Swap Starship, plasma
