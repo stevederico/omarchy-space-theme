@@ -2,6 +2,11 @@
 
 - Extra Space variants
 
+0.45.0
+
+  Drop hyprland.lua from README
+  Fix install steps
+
 0.44.0
 
   Clarify background sources

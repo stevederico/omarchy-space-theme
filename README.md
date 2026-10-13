@@ -31,7 +31,7 @@ Regenerate from a photo without applying it:
 aether --generate backgrounds/0-starship-launch.jpg --no-apply --output /tmp/aether
 ```
 
-Active window border is sky blue. Inactive is a cream hairline. Hyprland rounding is 0 so windows and the shell stay square.
+Active window border is sky blue. Inactive is a cream hairline. Omarchy generates the Hyprland, terminal, and editor configs from `colors.toml`, so the theme ships no `hyprland.lua`.
 
 ## Install
 
@@ -39,20 +39,13 @@ Active window border is sky blue. Inactive is a cream hairline. Hyprland roundin
 omarchy theme install https://github.com/stevederico/omarchy-space-theme
 ```
 
-Installs as `space` and applies it right away. Git installs drop `*.lua`, so the theme's `hyprland.lua` (square corners, hairline border) is skipped. To keep it, install as a user theme instead:
+Installs as `space` and applies it right away.
 
-```bash
-git clone https://github.com/stevederico/omarchy-space-theme.git ~/.config/omarchy/themes/space
-# then remove .git so Omarchy keeps hyprland.lua
-rm -rf ~/.config/omarchy/themes/space/.git
-omarchy theme set space
-```
-
-Or copy from a checkout:
+Or install as a user theme from a checkout:
 
 ```bash
 mkdir -p ~/.config/omarchy/themes/space
-cp -a colors.toml hyprland.lua shell.toml icons.theme keyboard.rgb preview.png backgrounds \
+cp -a colors.toml shell.toml icons.theme keyboard.rgb preview.png backgrounds \
   ~/.config/omarchy/themes/space/
 omarchy theme set space
 ```
