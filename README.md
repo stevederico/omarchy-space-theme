@@ -69,7 +69,7 @@ Most shots are SpaceX posts on X, saved as `orig` frames (X serves 4096 wide at 
 | `1-sunset-pad.jpg` | 6144×3456 (6K) | Stacked Starship, magenta sunset | [X image](https://pbs.twimg.com/media/HN635FUWYAAzbOB?format=jpg&name=orig) |
 | `2-flight14-dawn.jpg` | 6144×3314 (6K) | Dawn liftoff, pink flame, Flight 14 | [X post](https://x.com/SpaceX/status/2105352066424017118/photo/2) |
 | `3-orbital-clouds.jpg` | 6144×3456 (6K) | Starship climbing over clouds and coast, first orbital flight | [X post](https://x.com/SpaceX/status/2104654998034690329/photo/4) |
-| `4-booster-engines.jpg` | 6144×3456 (6K) | Super Heavy engine bells, Flight 13 | [X post](https://x.com/SpaceX/status/2081088918703759549) |
+| `4-booster-engines.webp` | 6144×3456 (6K) | Super Heavy engine bells, Flight 13 | [X post](https://x.com/SpaceX/status/2081088918703759549) |
 | `5-raptor-liftoff.jpg` | 6144×4096 (6K) | Super Heavy liftoff, 33 Raptor 3 engines from below | [X post](https://x.com/SpaceX/status/2105061657558786148/photo/1) |
 | `6-starlink-earth.jpg` | 6144×3456 (6K) | S41 over Earth, first orbital flight | [X post](https://x.com/SpaceX/status/2106090316747207047/photo/3) |
 | `7-starship.jpg` | 6144×2606 (6K) | Starship over Earth | Desktop wallpaper, original source unknown |
